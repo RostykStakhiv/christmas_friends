@@ -1,3 +1,6 @@
 .gitkeep
 node_modules
 pinata/.api_keys.ts
+
+**/scripts/**/*.map
+**/scripts/**/*.js
