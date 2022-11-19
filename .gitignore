@@ -1,6 +1,10 @@
 .gitkeep
 node_modules
 pinata/.api_keys.ts
+pinata/.api_keys.js
+
+web3_storage/.api_keys.js
+web3_storage/.api_keys.ts
 
 **/scripts/**/*.map
 **/scripts/**/*.js
